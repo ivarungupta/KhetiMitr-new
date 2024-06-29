@@ -1,7 +1,5 @@
 # KhetiMitr (Updated)
 
-# KhetiMitr
-
 ## Overview
 KhetiMitr is a comprehensive platform designed to address various agricultural challenges faced by farmers and clients. The platform aims to enhance crop management, pest control, soil health, irrigation, and marketing, ultimately boosting agricultural productivity.
 
@@ -57,11 +55,11 @@ To run this project locally, follow these steps:
 1. Launch Visual Studio Code (VSCode).
 2. Open the folder where your `main.py` file and other project files are located.
 
-### Open Terminal in VSCode:
+## Open Terminal in VSCode:
 
 - Press `Ctrl+`` (backtick) to open the integrated terminal in VSCode. This terminal will be used for running commands.
 
-### Set Up a Virtual Environment:
+## Set Up a Virtual Environment:
 
 1. Navigate to your project directory in the terminal:
    ```sh
@@ -82,54 +80,54 @@ To run this project locally, follow these steps:
     source venv/bin/activate
     ```
     
-### Install Required Packages:
+## Install Required Packages:
 Install TensorFlow, Streamlit, and other dependencies listed in your `main.py`:
 
 ```sh
 pip install tensorflow streamlit numpy
 ```
 
-### Run the Streamlit Application:
+## Run the Streamlit Application:
 Once installation is complete, start the Streamlit server:
 
 ```sh
 streamlit run main.py
 ```
-### Steps to Run the Project Again
+## Steps to Run the Project Again
 
-#### Open VSCode and Navigate to Your Project:
-1. Launch Visual Studio Code (VSCode).
-2. Open the folder where your `main.py` file and other project files are located.
-   Open Terminal in VSCode:
-- Press `Ctrl+`` (backtick) to open the integrated terminal in VSCode. This terminal will be used for running commands.
+### Open VSCode and Navigate to Your Project:
+    1. Launch Visual Studio Code (VSCode).
+    2. Open the folder where your `main.py` file and other project files are located.
+       Open Terminal in VSCode:
+    - Press `Ctrl+`` (backtick) to open the integrated terminal in VSCode. This terminal will be used for running commands.
 
-3. Activate the Virtual Environment:
-- Navigate to your project directory in the terminal:
-  ```sh
-  cd path/to/your/project
-  ```
-  for Windows
-  ```sh
-  .\venv\Scripts\activate
-  ```
-  for macOS/Linux
-  ```sh
-  source venv/bin/activate
-  ```
+    3. Activate the Virtual Environment:
+    - Navigate to your project directory in the terminal:
+          ```sh
+      cd path/to/your/project
+      ```
+      for Windows
+      ```sh
+      .\venv\Scripts\activate
+      ```
+      for macOS/Linux
+      ```sh
+      source venv/bin/activate
+      ```
 
-  4. Run the Streamlit Application:
-   Once the virtual environment is activated, start the Streamlit server:
-   ```sh
-   streamlit run main.py
-    ```
-   This command will initialize the Streamlit server locally and open a new tab in your default web browser displaying your application.
+      4. Run the Streamlit Application:
+       Once the virtual environment is activated, start the Streamlit server:
+       ```sh
+       streamlit run main.py
+        ```
+       This command will initialize the Streamlit server locally and open a new tab in your default web browser displaying your application.
 
-**Navigate the Application:**
+## Navigate the Application:
 
 In your web browser, you should see the application running with a sidebar offering different options (Home, About, Disease Recognition).
 Upload an image on the Disease Recognition page to test your model's prediction.
 
-**Contact**
+## Contact
 
 For any inquiries or feedback, please contact us at [ivarungupta7@gmail.com](mailto:ivarungupta7@gmail.com).
 
