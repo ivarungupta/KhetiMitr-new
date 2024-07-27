@@ -3,6 +3,8 @@
 ## Overview
 KhetiMitr is a comprehensive platform designed to address various agricultural challenges faced by farmers and clients. The platform aims to enhance crop management, pest control, soil health, irrigation, and marketing, ultimately boosting agricultural productivity.
 
+![Alt text](ss1.png)
+
 ## Features
 KhetiMitr offers four core services:
 1. **Advisory Services**: Provides expert advice on crop management, pest control, soil health, and irrigation.
