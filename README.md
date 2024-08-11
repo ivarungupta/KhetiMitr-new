@@ -90,7 +90,7 @@ pip install tensorflow streamlit numpy
 ```
 
 ## Run the Streamlit Application:
-Once installation is complete, start the Streamlit server:
+Once installation is complete, start the Streamlit server :
 
 ```sh
 streamlit run main.py
